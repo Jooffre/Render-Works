@@ -162,7 +162,7 @@
             //--------------------------------------
             // Custom Features
             #pragma multi_compile _ _USEARTTEX_ON
-
+            
             #pragma vertex Vertex
             #pragma fragment Fragment
 
